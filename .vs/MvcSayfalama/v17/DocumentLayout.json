@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\mvcnedir\\faydalari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\mvcnedir\\faydalari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\mvcnedir\\orneksiteler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\mvcnedir\\orneksiteler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\controllers\\mvcnedircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\mvcnedircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\mvcnedir\\nedir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\mvcnedir\\nedir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcSayfalama\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:59:08.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrnekSiteler.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:54:28.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Faydalari.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T14:47:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MVCNedirController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\MVCNedirController.cs",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Controllers\\MVCNedirController.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\MVCNedirController.cs",
+              "RelativeToolTip": "MvcSayfalama\\Controllers\\MVCNedirController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:42:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nedir.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\Nedir.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\MVCnedir\\Nedir.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\Nedir.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\MVCnedir\\Nedir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:17:11.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
