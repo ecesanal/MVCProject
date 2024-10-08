@@ -120,8 +120,11 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AnasayfaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MVCNedirController.cs" />
+    <Compile Include="Controllers\NormalController.cs" />
+    <Compile Include="Controllers\SiteController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -145,6 +148,7 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\mvc.jpg" />
+    <Content Include="Content\renkli.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -182,10 +186,19 @@
     <Content Include="Views\MVCnedir\Nedir.cshtml" />
     <Content Include="Views\MVCnedir\Faydalari.cshtml" />
     <Content Include="Views\MVCnedir\OrnekSiteler.cshtml" />
+    <Content Include="Views\Site\Anasayfa.cshtml" />
+    <Content Include="Views\Site\Hakkimizda.cshtml" />
+    <Content Include="Views\Site\BizKimiz.cshtml" />
+    <Content Include="Views\Site\Vizyonumuz.cshtml" />
+    <Content Include="Views\Shared\_OrnekSitelerLayout.cshtml" />
+    <Content Include="Views\Normal\RenkliSayfa.cshtml" />
+    <Content Include="Views\Normal\Anasayfa.cshtml" />
+    <Content Include="Views\Normal\Alert.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Anasayfa\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />

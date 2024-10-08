@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div>
+        <h1 class="text-center">Örnek siteler</h1>
+        <nav class="text-center">
+            <a href="/Site/Anasayfa">Anasayfa</a>
+            <a href="/Site/Hakkimizda">Hakkimizda</a>
+            <a href="/Site/BizKimiz">BizKimiz</a>
+            <a href="/Site/Vizyonumuz">Vizyonumuz</a>
+
+        </nav>
+        @RenderBody()
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

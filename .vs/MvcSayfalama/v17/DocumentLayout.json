@@ -3,23 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\normal\\renklisayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\normal\\renklisayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\content\\renkli.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\content\\renkli.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\normal\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\normal\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\normal\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\normal\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\controllers\\normalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\normalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\shared\\_orneksitelerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\shared\\_orneksitelerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\site\\bizkimiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\site\\bizkimiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\site\\vizyonumuz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\site\\vizyonumuz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\site\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\site\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\site\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\site\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\mvcsayfalama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\mvcnedir\\faydalari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\mvcnedir\\faydalari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\mvcnedir\\orneksiteler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\mvcnedir\\orneksiteler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\controllers\\mvcnedircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\mvcsayfalama\\controllers\\mvcnedircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\mvcnedircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|c:\\users\\e\\desktop\\mvc\\mvcsayfalama\\mvcsayfalama\\views\\mvcnedir\\nedir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\mvcsayfalama\\views\\mvcnedir\\nedir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41E83294-5BDA-4C27-B150-F824471DC6F9}|MvcSayfalama\\MvcSayfalama.csproj|solutionrelative:mvcsayfalama\\views\\mvcnedir\\nedir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,11 +78,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "renkli.css",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Content\\renkli.css",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Content\\renkli.css",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Content\\renkli.css",
+              "RelativeToolTip": "MvcSayfalama\\Content\\renkli.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T16:50:49.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Alert.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Normal\\Alert.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Normal\\Alert.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Normal\\Alert.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Normal\\Alert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:28.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anasayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Normal\\Anasayfa.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Normal\\Anasayfa.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Normal\\Anasayfa.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Normal\\Anasayfa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T14:49:29.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RenkliSayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Normal\\RenkliSayfa.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Normal\\RenkliSayfa.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Normal\\RenkliSayfa.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Normal\\RenkliSayfa.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T14:49:19.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NormalController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\NormalController.cs",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Controllers\\NormalController.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\NormalController.cs",
+              "RelativeToolTip": "MvcSayfalama\\Controllers\\NormalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:48:50.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnasayfaController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\AnasayfaController.cs",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Controllers\\AnasayfaController.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\AnasayfaController.cs",
+              "RelativeToolTip": "MvcSayfalama\\Controllers\\AnasayfaController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAApwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:31:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vizyonumuz.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\Vizyonumuz.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Site\\Vizyonumuz.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\Vizyonumuz.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Site\\Vizyonumuz.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T14:15:12.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_OrnekSitelerLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Shared\\_OrnekSitelerLayout.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Shared\\_OrnekSitelerLayout.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Shared\\_OrnekSitelerLayout.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Shared\\_OrnekSitelerLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:37:21.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BizKimiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\BizKimiz.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Site\\BizKimiz.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\BizKimiz.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Site\\BizKimiz.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:33:35.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Anasayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\Anasayfa.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Site\\Anasayfa.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\Anasayfa.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Site\\Anasayfa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:32:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Site\\Hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Site\\Hakkimizda.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Site\\Hakkimizda.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:27:56.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\SiteController.cs",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Controllers\\SiteController.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\SiteController.cs",
+              "RelativeToolTip": "MvcSayfalama\\Controllers\\SiteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:17:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcSayfalama\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:08:58.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MvcSayfalama\\Controllers\\HomeController.cs",
@@ -47,33 +264,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrnekSiteler.cshtml",
-              "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
-              "RelativeDocumentMoniker": "MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
-              "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
-              "RelativeToolTip": "MvcSayfalama\\Views\\MVCnedir\\OrnekSiteler.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T15:54:28.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Faydalari.cshtml",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
               "RelativeDocumentMoniker": "MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
               "ToolTip": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
               "RelativeToolTip": "MvcSayfalama\\Views\\MVCnedir\\Faydalari.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-03T14:47:25.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "MVCNedirController.cs",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Controllers\\MVCNedirController.cs",
               "RelativeDocumentMoniker": "MvcSayfalama\\Controllers\\MVCNedirController.cs",
@@ -81,12 +285,11 @@
               "RelativeToolTip": "MvcSayfalama\\Controllers\\MVCNedirController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T14:42:04.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T14:42:04.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Nedir.cshtml",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\mvc\\MvcSayfalama\\MvcSayfalama\\Views\\MVCnedir\\Nedir.cshtml",
               "RelativeDocumentMoniker": "MvcSayfalama\\Views\\MVCnedir\\Nedir.cshtml",
@@ -94,8 +297,7 @@
               "RelativeToolTip": "MvcSayfalama\\Views\\MVCnedir\\Nedir.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T10:17:11.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T10:17:11.135Z"
             }
           ]
         }
