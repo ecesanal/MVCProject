@@ -122,6 +122,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AnasayfaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MatematikController.cs" />
     <Compile Include="Controllers\MVCNedirController.cs" />
     <Compile Include="Controllers\NormalController.cs" />
     <Compile Include="Controllers\SiteController.cs" />
@@ -199,6 +200,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Anasayfa\" />
+    <Folder Include="Views\Matematik\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
